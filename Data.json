@@ -251,7 +251,7 @@
 "First GP": "1987",
 "Track image": "https://elijahcreative.github.io/Images/TR-Suzuka.png",
 "Flag image": "https://raw.githubusercontent.com/wolfem47/F1/Images/Images/Flags/Japan.png",
-"Dates":"07-09 Oct"
+"Dates":"07 - 09 Oct"
 },
 {
 "Country":	"USA",
@@ -267,7 +267,7 @@
 "First GP": "2012",
 "Track image": "https://elijahcreative.github.io/Images/TR-Austin2.png",
 "Flag image":"https://raw.githubusercontent.com/wolfem47/F1/Images/Images/Flags/USA.png",
-"Dates":"21-23 Oct"
+"Dates":"21 - 23 Oct"
 },
 {
 "Country":	"Mexico",
@@ -283,7 +283,7 @@
 "First GP": "1963",
 "Track image": "https://elijahcreative.github.io/Images/TR-Mexico.png",
 "Flag image":"https://raw.githubusercontent.com/wolfem47/F1/Images/Images/Flags/Mexico.png",
-"Dates":"28-30 Oct"
+"Dates":"28 - 30 Oct"
 },
 {
 "Country":	"Brazil",
@@ -299,7 +299,7 @@
 "First GP": "1973",
 "Track image": "https://elijahcreative.github.io/Images/TR-Brazil.png",
 "Flag image":"https://raw.githubusercontent.com/wolfem47/F1/Images/Images/Flags/Brazil.png",
-"Dates":"11-13 Nov"
+"Dates":"11 - 13 Nov"
 },
 {
 "Country":	"U.A. Emirates",
@@ -315,6 +315,6 @@
 "First GP": "2009",
 "Track image": "https://elijahcreative.github.io/Images/TR-AbuDhabi.png",
 "Flag image":"https://raw.githubusercontent.com/wolfem47/F1/Images/Images/Flags/UA_Emirates.png",
-"Dates":"18-20 Nov"
+"Dates":"18 - 20 Nov"
 }
 ]}
