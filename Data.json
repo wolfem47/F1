@@ -250,7 +250,8 @@
 "Best lap driver": "Hamilton, 2019",
 "First GP": "1987",
 "Track image": "https://elijahcreative.github.io/Images/TR-Suzuka.png",
-"Flag image": "https://raw.githubusercontent.com/wolfem47/F1/Images/Images/Flags/Japan.png"
+"Flag image": "https://raw.githubusercontent.com/wolfem47/F1/Images/Images/Flags/Japan.png",
+"Dates":"07-09 Oct"
 },
 {
 "Country":	"USA",
@@ -264,7 +265,9 @@
 "Best lap": "1:36.169",
 "Best lap driver": "Leclerc, 2019",
 "First GP": "2012",
-"Track image": "https://elijahcreative.github.io/Images/TR-Austin2.png"
+"Track image": "https://elijahcreative.github.io/Images/TR-Austin2.png",
+"Flag image":"",
+"Dates":"21-23 Oct"
 },
 {
 "Country":	"Mexico",
@@ -278,7 +281,9 @@
 "Best lap": "1:17.774",
 "Best lap driver": "Bottas, 2021",
 "First GP": "1963",
-"Track image": "https://elijahcreative.github.io/Images/TR-Mexico.png"
+"Track image": "https://elijahcreative.github.io/Images/TR-Mexico.png",
+"Flag image":"",
+"Dates":"28-30 Oct"
 },
 {
 "Country":	"Brazil",
@@ -292,7 +297,9 @@
 "Best lap": "1:10.540",
 "Best lap driver": "Bottas, 2018",
 "First GP": "1973",
-"Track image": "https://elijahcreative.github.io/Images/TR-Brazil.png"
+"Track image": "https://elijahcreative.github.io/Images/TR-Brazil.png",
+"Flag image":"",
+"Dates":"11-13 Nov"
 },
 {
 "Country":	"U.A. Emirates",
@@ -306,6 +313,8 @@
 "Best lap": "1:26.103",
 "Best lap driver": "Verstappen, 2021",
 "First GP": "2009",
-"Track image": "https://elijahcreative.github.io/Images/TR-AbuDhabi.png"
+"Track image": "https://elijahcreative.github.io/Images/TR-AbuDhabi.png",
+"Flag image":"",
+"Dates":"18-20 Nov"
 }
 ]}
