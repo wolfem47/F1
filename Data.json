@@ -1,6 +1,6 @@
 {"Races": [
 {
-"Country":	"🇧🇭 Bahrain",
+"Country":	"Bahrain",
 "City":	"Sakhir",
 "Qual":	"Mar 19 2022 15:00 UTC",
 "Sprint":	"",
@@ -14,7 +14,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Bahrain.png"
 },
 {
-"Country":	"🇸🇦 Saudi Arabia",
+"Country":	"Saudi Arabia",
 "City":	"Jeddah",
 "Qual":	"Mar 26 2022 17:00 UTC",
 "Sprint":	"",
@@ -28,7 +28,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Saudi.png"
 },
 {
-"Country":	"🇦🇺 Australia",
+"Country":	"Australia",
 "City":	"Melbourne",
 "Qual":	"Apr 9 2022 06:00 UTC",
 "Sprint":	"",
@@ -42,7 +42,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Melbourne2022.png"
 },
 {
-"Country":	"🇮🇹 Italy",
+"Country":	"Italy",
 "City":	"Imola",
 "Qual":	"Apr 22 2022 15:00 UTC",
 "Sprint":	"Apr 23 2022 14:30 UTC",
@@ -56,7 +56,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Imola.png"
 },
 {
-"Country":	"🇺🇸 USA",
+"Country":	"USA",
 "City":	"Miami",
 "Qual":	"May 7 2022 20:00 UTC",
 "Sprint":	"",
@@ -70,7 +70,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Miami.png"
 },
 {
-"Country":	"🇪🇸 Spain",
+"Country":	"Spain",
 "City":	"Catalunya",
 "Qual":	"May 21 2022 14:00 UTC",
 "Sprint":	"",
@@ -84,7 +84,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Spain.png"
 },
 {
-"Country":	"🇲🇨 Monaco",
+"Country":	"Monaco",
 "City":	"Monte Carlo",
 "Qual":	"May 28 2022 14:00 UTC",
 "Sprint":	"",
@@ -98,7 +98,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Monaco.png"
 },
 {
-"Country":	"🇦🇿 Azerbaijan",
+"Country":	"Azerbaijan",
 "City":	"Baku",
 "Qual":	"Jun 11 2022 14:00 UTC",
 "Sprint":	"",
@@ -112,7 +112,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Azerbaijan.png"
 },
 {
-"Country":	"🇨🇦 Canada",
+"Country":	"Canada",
 "City":	"Montréal",
 "Qual":	"Jun 18 2022 20:00 UTC",
 "Sprint":	"",
@@ -126,7 +126,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Canada.png"
 },
 {
-"Country":	"🇬🇧 UK",
+"Country":	"UK",
 "City":	"Silverstone",
 "Qual":	"Jul 2 2022 14:00 UTC",
 "Sprint":	"",
@@ -140,7 +140,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Silverstone.png"
 },
 {
-"Country":	"🇦🇹 Austria",
+"Country":	"Austria",
 "City":	"Spielberg",
 "Qual":	"Jul 8 2022 15:00 UTC",
 "Sprint":	"Jul 9 2022 14:30 UTC",
@@ -154,7 +154,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Austria.png"
 },
 {
-"Country":	"🇫🇷 France",
+"Country":	"France",
 "City":	"Le Castellet",
 "Qual":	"Jul 23 2022 14:00 UTC",
 "Sprint":	"",
@@ -168,7 +168,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-France.png"
 },
 {
-"Country":	"🇭🇺 Hungary",
+"Country":	"Hungary",
 "City":	"Mogyoród",
 "Qual":	"Jul 30 2022 14:00 UTC",
 "Sprint":	"",
@@ -182,7 +182,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Hungary.png"
 },
 {
-"Country":	"🇧🇪 Belgium",
+"Country":	"Belgium",
 "City":	"Stavelot",
 "Qual":	"Aug 27 2022 14:00 UTC",
 "Sprint":	"",
@@ -196,7 +196,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Spa.png"
 },
 {
-"Country":	"🇳🇱 Netherlands",
+"Country":	"Netherlands",
 "City":	"Zandvoort",
 "Qual":	"Sep 3 2022 13:00 UTC",
 "Sprint":	"",
@@ -210,7 +210,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Netherlands.png"
 },
 {
-"Country":	"🇮🇹 Italy",
+"Country":	"Italy",
 "City":	"Monza",
 "Qual":	"Sep 10 2022 14:00 UTC",
 "Sprint":	"",
@@ -224,7 +224,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Monza2.png"
 },
 {
-"Country":	"🇸🇬 Singapore",
+"Country":	"Singapore",
 "City":	"Marina Bay",
 "Qual":	"Oct 1 2022 13:00 UTC",
 "Sprint":	"",
@@ -238,7 +238,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Singapore2.png"
 },
 {
-"Country":	"🇯🇵 Japan",
+"Country":	"Japan",
 "City":	"Suzuka",
 "Qual":	"Oct 8 2022 7:00 UTC",
 "Sprint":	"",
@@ -252,7 +252,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Suzuka.png"
 },
 {
-"Country":	"🇺🇸 USA",
+"Country":	"USA",
 "City":	"Austin",
 "Qual":	"Oct 22 2022 22:00 UTC",
 "Sprint":	"",
@@ -266,7 +266,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Austin2.png"
 },
 {
-"Country":	"🇲🇽 Mexico",
+"Country":	"Mexico",
 "City":	"Mexico City",
 "Qual":	"Oct 29 2022 20:00 UTC",
 "Sprint":	"",
@@ -280,7 +280,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Mexico.png"
 },
 {
-"Country":	"🇧🇷 Brazil",
+"Country":	"Brazil",
 "City":	"São Paulo",
 "Qual":	"Nov 11 2022 19:00 UTC",
 "Sprint":	"Nov 12 2022 19:30 UTC",
@@ -294,7 +294,7 @@
 "Track image": "https://elijahcreative.github.io/Images/TR-Brazil.png"
 },
 {
-"Country":	"🇦🇪 U.A. Emirates",
+"Country":	"U.A. Emirates",
 "City":	"Abu Dhabi",
 "Qual":	"Nov 19 2022 14:00 UTC",
 "Sprint":	"",
