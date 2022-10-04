@@ -266,7 +266,7 @@
 "Best lap driver": "Leclerc, 2019",
 "First GP": "2012",
 "Track image": "https://elijahcreative.github.io/Images/TR-Austin2.png",
-"Flag image":"",
+"Flag image":"https://raw.githubusercontent.com/wolfem47/F1/Images/Images/Flags/USA.png",
 "Dates":"21-23 Oct"
 },
 {
@@ -282,7 +282,7 @@
 "Best lap driver": "Bottas, 2021",
 "First GP": "1963",
 "Track image": "https://elijahcreative.github.io/Images/TR-Mexico.png",
-"Flag image":"",
+"Flag image":"https://raw.githubusercontent.com/wolfem47/F1/Images/Images/Flags/Mexico.png",
 "Dates":"28-30 Oct"
 },
 {
@@ -298,7 +298,7 @@
 "Best lap driver": "Bottas, 2018",
 "First GP": "1973",
 "Track image": "https://elijahcreative.github.io/Images/TR-Brazil.png",
-"Flag image":"",
+"Flag image":"https://raw.githubusercontent.com/wolfem47/F1/Images/Images/Flags/Brazil.png",
 "Dates":"11-13 Nov"
 },
 {
@@ -314,7 +314,7 @@
 "Best lap driver": "Verstappen, 2021",
 "First GP": "2009",
 "Track image": "https://elijahcreative.github.io/Images/TR-AbuDhabi.png",
-"Flag image":"",
+"Flag image":"https://raw.githubusercontent.com/wolfem47/F1/Images/Images/Flags/UA_Emirates.png",
 "Dates":"18-20 Nov"
 }
 ]}
