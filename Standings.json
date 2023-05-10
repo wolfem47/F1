@@ -24,8 +24,8 @@
     "Place":	"3",
     "Name":	"ALO",
     "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/ALO.png",
-    "Color":"",
-    "Gradient":"",
+    "Color":"https://raw.githubusercontent.com/wolfem47/F1/main/Aston-Color.gif",
+    "Gradient":"https://raw.githubusercontent.com/wolfem47/F1/main/Aston-Gradient.png",
     "Team":	"Aston Martin",
     "Points":	"75"
     },
@@ -33,8 +33,8 @@
     "Place":	"4",
     "Name":	"HAM",
     "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/HAM.png",
-    "Color":"",
-    "Gradient":"",
+    "Color":"https://raw.githubusercontent.com/wolfem47/F1/main/Mercedes-Color.gif",
+    "Gradient":"https://raw.githubusercontent.com/wolfem47/F1/main/Mercedes-Gradient.png",
     "Team":	"Mercedes-Benz",
     "Points":	"56"
     },
