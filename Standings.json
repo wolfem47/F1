@@ -6,6 +6,8 @@
     "Place":	"1",
     "Name":	"VER",
     "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/VER.png",
+    "Color":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Color.gif",
+    "Gradient":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Gradient.png",
     "Team":	"Red Bull",
     "Points":	"119"
     },
@@ -13,6 +15,8 @@
     "Place":	"2",
     "Name":	"PER",
     "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/PER.png",
+    "Color":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Color.gif",
+    "Gradient":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Gradient.png",
     "Team":	"Red Bull",
     "Points":	"105"
     },
@@ -20,6 +24,8 @@
     "Place":	"3",
     "Name":	"ALO",
     "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/ALO.png",
+    "Color":"",
+    "Gradient":"",
     "Team":	"Aston Martin",
     "Points":	"75"
     },
@@ -27,6 +33,8 @@
     "Place":	"4",
     "Name":	"HAM",
     "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/HAM.png",
+    "Color":"",
+    "Gradient":"",
     "Team":	"Mercedes-Benz",
     "Points":	"56"
     },
@@ -34,6 +42,8 @@
     "Place":	"5",
     "Name":	"SAI",
     "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/SAI.png",
+    "Color":"",
+    "Gradient":"",
     "Team":	"Ferrari",
     "Points":	"44"
     },
@@ -41,6 +51,8 @@
     "Place":	"6",
     "Name":	"RUS",
     "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/RUS.png",
+    "Color":"",
+    "Gradient":"",
     "Team":	"Mercedes-Benz",
     "Points":	"40"
     }
