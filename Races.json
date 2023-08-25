@@ -1,6 +1,6 @@
 {"Races": [
     {
-    "Country":	"🇧🇭 Bahrain",
+    "Country":	"Bahrain",
     "City":	"Sakhir",
     "Qual":	"Mar 4 2023 15:00 UTC",
     "Sprint":	"",
@@ -15,7 +15,7 @@
     "Track2": "https://elijahcreative.github.io/F1/Images2/TR-Bahrain.png"
     },
     {
-    "Country":	"🇸🇦 Saudi Arabia",
+    "Country":	"Saudi Arabia",
     "City":	"Jeddah",
     "Qual":	"Mar 18 2023 17:00 UTC",
     "Sprint":	"",
@@ -30,7 +30,7 @@
     "Track2": "https://elijahcreative.github.io/F1/Images2/TR-Saudi.png"
     },
     {
-    "Country":	"🇦🇺 Australia",
+    "Country":	"Australia",
     "City":	"Melbourne",
     "Qual":	"Apr 1 2023 05:00 UTC",
     "Sprint":	"",
@@ -45,7 +45,7 @@
     "Track2": "https://elijahcreative.github.io/F1/Images2/TR-Melbourne2022.png"
     },
     {
-    "Country":	"🇦🇿 Azerbaijan",
+    "Country":	"Azerbaijan",
     "City":	"Baku",
     "Qual":	"Apr 28 2023 13:00 UTC",
     "Sprint":	"Apr 29 2023 13:30 UTC",
@@ -60,7 +60,7 @@
     "Track2": "https://elijahcreative.github.io/F1/Images2/TR-Azerbaijan.png"
     },
     {
-    "Country":	"🇺🇸 USA",
+    "Country":	"USA",
     "City":	"Miami",
     "Qual":	"May 6 2023 20:00 UTC",
     "Sprint":	"",
@@ -212,7 +212,7 @@
     },
     {
     "Round":"14",
-    "Country":	"🇳🇱 Netherlands",
+    "Country":	"Netherlands",
     "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/Netherlands.png",
     "City":	"Zandvoort",
     "Circuit":"Circuit Zandvoort",
