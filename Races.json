@@ -252,6 +252,7 @@
     "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/Singapore.png",
     "City":	"Marina Bay",
     "Circuit":"Marina Bay Street Circuit",
+    "Prix":"SINGAPORE AIRLINES SINGAPORE GRAND PRIX",
     "Qual":	"Sep 16 2023 13:00 UTC",
     "Sprint":	"",
     "Race":	"Sep 17 2023 12:00 UTC",
@@ -261,7 +262,7 @@
     "Best lap": "1:41.905",
     "Best lap driver": "Magnussen, 2018",
     "First GP": "2008",
-    "Track image": "https://elijahcreative.github.io/F1/Images/TR-Singapore2.png"
+    "Track image": "https://raw.githubusercontent.com/wolfem47/F1/main/Tracks%20Images/Singapore.png"
     },
     {
     "Round":"17",
@@ -269,6 +270,7 @@
     "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/Japan.png",
     "City":	"Suzuka",
     "Circuit":"Suzuka International Racing Course",
+    "Prix":"LENOVO JAPANESE GRAND PRIX",
     "Qual":	"Sep 23 2023 6:00 UTC",
     "Sprint":	"",
     "Race":	"Sep 24 2023 5:00 UTC",
@@ -278,7 +280,7 @@
     "Best lap": "1:30.983",
     "Best lap driver": "Hamilton, 2019",
     "First GP": "1987",
-    "Track image": "https://elijahcreative.github.io/F1/Images/TR-Suzuka.png"
+    "Track image": "https://raw.githubusercontent.com/wolfem47/F1/main/Tracks%20Images/Suzuka.png"
     },
     {
     "Round":"18",
@@ -286,6 +288,7 @@
     "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/Qatar.png",
     "City":	"Doha",
     "Circuit":"Lusail International Circuit",
+    "Prix":"QATAR AIRWAYS QATAR GRAND PRIX",
     "Qual":	"Oct 6 2023 14:00 UTC",
     "Sprint":	"Oct 7 2023 14:30 UTC",
     "Race":	"Oct 8 2023 14:00 UTC",
@@ -295,7 +298,7 @@
     "Best lap": "1:23.196",
     "Best lap driver": "Verstappen, 2021",
     "First GP": "2021",
-    "Track image": "https://elijahcreative.github.io/F1/Images/TR-Quatar.png"
+    "Track image": "https://raw.githubusercontent.com/wolfem47/F1/main/Tracks%20Images/Qatar.png"
     },
     {
     "Round":"19",
@@ -303,6 +306,7 @@
     "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/USA.png",
     "City":	"Austin",
     "Circuit":"Circuit of The Americas",
+    "Prix":"LENOVO UNITED STATES GRAND PRIX",
     "Qual":	"Oct 20 2023 21:00 UTC",
     "Sprint":	"Oct 21 2023 22:00 UTC",
     "Race":	"Oct 22 2023 19:00 UTC",
@@ -312,7 +316,7 @@
     "Best lap": "1:36.169",
     "Best lap driver": "Leclerc, 2019",
     "First GP": "2012",
-    "Track image": "https://elijahcreative.github.io/F1/Images/TR-Austin2.png"
+    "Track image": "https://raw.githubusercontent.com/wolfem47/F1/main/Tracks%20Images/Austin.png"
     },
     {
     "Round":"20",
@@ -320,6 +324,7 @@
     "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/Mexico.png",
     "City":	"Mexico City",
     "Circuit":"Autódromo Hermanos Rodríguez",
+    "Prix":"GRAN PREMIO DE LA CIUDAD DE MÉXICO",
     "Qual":	"Oct 28 2023 21:00 UTC",
     "Sprint":	"",
     "Race":	"Oct 29 2023 20:00 UTC",
@@ -329,7 +334,7 @@
     "Best lap": "1:17.774",
     "Best lap driver": "Bottas, 2021",
     "First GP": "1963",
-    "Track image": "https://elijahcreative.github.io/F1/Images/TR-Mexico.png"
+    "Track image": "https://raw.githubusercontent.com/wolfem47/F1/main/Tracks%20Images/Mexico.png"
     },
     {
     "Round":"21",
@@ -337,6 +342,7 @@
     "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/Brazil.png",
     "City":	"São Paulo",
     "Circuit":"Autódromo José Carlos Pace",
+    "Prix":"ROLEX GRANDE PRÊMIO DE SÃO PAULO",
     "Qual":	"Nov 3 2023 18:00 UTC",
     "Sprint":	"Nov 4 2023 18:30 UTC",
     "Race":	"Nov 5 2023 17:00 UTC",
@@ -346,7 +352,7 @@
     "Best lap": "1:10.540",
     "Best lap driver": "Bottas, 2018",
     "First GP": "1973",
-    "Track image": "https://elijahcreative.github.io/F1/Images/TR-Brazil.png"
+    "Track image": "https://raw.githubusercontent.com/wolfem47/F1/main/Tracks%20Images/Brazil.png"
     },
     {
     "Round":"22",
@@ -354,6 +360,7 @@
     "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/USA.png",
     "City":	"Las Vegas",
     "Circuit":"Las Vegas Circuit",
+    "Prix":"HEINEKEN SILVER LAS VEGAS GRAND PRIX",
     "Qual":	"Nov 18 2023 08:00 UTC",
     "Sprint":	"",
     "Race":	"Nov 19 2023 06:00 UTC",
@@ -363,7 +370,7 @@
     "Best lap": "-",
     "Best lap driver": "-",
     "First GP": "2023",
-    "Track image": "https://elijahcreative.github.io/F1/Images/TR-LasVegas.png"
+    "Track image": "https://raw.githubusercontent.com/wolfem47/F1/main/Tracks%20Images/Vegas.png"
     },
     {
     "Round":"23",
@@ -371,6 +378,7 @@
     "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/AbuDhabi.png",
     "City":	"Abu Dhabi",
     "Circuit":"Yas Marina Circuit",
+    "Prix":"ETIHAD AIRWAYS ABU DHABI GRAND PRIX",
     "Qual":	"Nov 25 2023 14:00 UTC",
     "Sprint":	"",
     "Race":	"Nov 26 2023 13:00 UTC",
@@ -380,6 +388,6 @@
     "Best lap": "1:26.103",
     "Best lap driver": "Verstappen, 2021",
     "First GP": "2009",
-    "Track image": "https://elijahcreative.github.io/F1/Images/TR-AbuDhabi.png"
+    "Track image": "https://raw.githubusercontent.com/wolfem47/F1/main/Tracks%20Images/AbuDhabi.png"
     }
     ]}
