@@ -234,16 +234,17 @@
     "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/Italy.png",
     "City":	"Monza",
     "Circuit":"Autodromo Nazionale Monza",
+    "Prix":"PIRELLI GRAN PREMIO D’ITALIA",
     "Qual":	"Sep 2 2023 14:00 UTC",
     "Sprint":	"",
-    "Race":	"Sep 3 2023 13:00 UTC",
+    "Race":	"Sep 03 2023 13:00 UTC",
     "Laps": "53",
     "Length": "5.8",
     "Race distance": "306.7",
     "Best lap": "1:21.046",
     "Best lap driver": "Barrichello, 2004",
     "First GP": "1950",
-    "Track image": "https://elijahcreative.github.io/F1/Images/TR-Monza2.png"
+    "Track image": "https://raw.githubusercontent.com/wolfem47/F1/main/Tracks%20Images/Monza.png"
     },
     {
     "Round":"16",
