@@ -9,7 +9,7 @@
     "Color":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Color.gif",
     "Gradient":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Gradient.png",
     "Team":	"Red Bull",
-    "Points":	"400"
+    "Points":	"433"
     },
     {
     "Place":	"2",
@@ -18,7 +18,7 @@
     "Color":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Color.gif",
     "Gradient":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Gradient.png",
     "Team":	"Red Bull",
-    "Points":	"223"
+    "Points":	"224"
     },
     {
     "Place":	"3",
@@ -27,7 +27,7 @@
     "Color":"https://raw.githubusercontent.com/wolfem47/F1/main/Mercedes-Color.gif",
     "Gradient":"https://raw.githubusercontent.com/wolfem47/F1/main/Mercedes-Gradient.png",
     "Team":	"Mercedes-Benz",
-    "Points":	"190"
+    "Points":	"194"
     },
     {
     "Place":	"4",
@@ -36,7 +36,7 @@
     "Color":"https://raw.githubusercontent.com/wolfem47/F1/main/Aston-Color.gif",
     "Gradient":"https://raw.githubusercontent.com/wolfem47/F1/main/Aston-Gradient.png",
     "Team":	"Aston Martin",
-    "Points":	"174"
+    "Points":	"183"
     },
     {
     "Place":	"5",
@@ -45,7 +45,7 @@
     "Color":"",
     "Gradient":"",
     "Team":	"Ferrari",
-    "Points":	"117"
+    "Points":	"153"
     },
     {
     "Place":	"6",
