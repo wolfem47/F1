@@ -45,19 +45,19 @@
     "Track2": "https://elijahcreative.github.io/F1/Images2/TR-Melbourne2022.png"
     },
     {
-    "Country":	"Azerbaijan",
-    "City":	"Baku",
-    "Qual":	"Apr 28 2023 13:00 UTC",
-    "Sprint":	"Apr 29 2023 13:30 UTC",
-    "Race":	"Apr 30 2023 11:00 UTC",
-    "Laps": "51",
-    "Length": "6.0",
-    "Race distance": "306.1",
-    "Best lap": "1:43.009",
-    "Best lap driver": "Leclerc, 2019",
-    "First GP": "2016",
-    "Track image": "https://elijahcreative.github.io/F1/Images/TR-Azerbaijan.png",
-    "Track2": "https://elijahcreative.github.io/F1/Images2/TR-Azerbaijan.png"
+    "Round":"4",
+    "Country":	"Japan",
+    "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/Japan.png",
+    "City":	"Suzuka",
+    "Qual":	"Apr 06 2024 06:00 UTC",
+    "Race":	"Apr 07 2024 05:00 UTC",
+    "Laps": "53",
+    "Length": "5.8",
+    "Race distance": "307.4",
+    "Best lap": "1:30.983",
+    "Best lap driver": "Lewis Hamilton, 2019",
+    "First GP": "1987",
+    "Track image": "https://raw.githubusercontent.com/wolfem47/F1/main/Tracks%20Images/Suzuka.png"
     },
     {
     "Country":	"USA",
