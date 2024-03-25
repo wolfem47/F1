@@ -49,6 +49,8 @@
     "Country":	"Japan",
     "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/Japan.png",
     "City":	"Suzuka",
+    "Circuit":"Suzuka International Racing Course",
+    "Prix":"LENOVO JAPANESE GRAND PRIX",
     "Qual":	"Apr 06 2024 06:00 UTC",
     "Race":	"Apr 07 2024 05:00 UTC",
     "Laps": "53",
