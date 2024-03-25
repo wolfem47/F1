@@ -6,8 +6,6 @@
     "Place":	"1",
     "Name":	"VER",
     "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/VER.png",
-    "Color":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Color.gif",
-    "Gradient":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Gradient.png",
     "Team":	"Red Bull",
     "Points":	"51"
     },
@@ -15,8 +13,6 @@
     "Place":	"2",
     "Name":	"LEC",
     "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/LEC.png",
-    "Color":"",
-    "Gradient":"",
     "Team":	"Ferrari",
     "Points":	"47"
     },
@@ -24,36 +20,30 @@
     "Place":	"3",
     "Name":	"HAM",
     "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/PER.png",
-    "Color":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Color.gif",
-    "Gradient":"https://raw.githubusercontent.com/wolfem47/F1/main/RedBull-Gradient.png",
     "Team":	"Red Bull",
-    "Points":	"232"
+    "Points":	"46"
     },
     {
     "Place":	"4",
-    "Name":	"ALO",
-    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/ALO.png",
-    "Color":"https://raw.githubusercontent.com/wolfem47/F1/main/Aston-Color.gif",
-    "Gradient":"https://raw.githubusercontent.com/wolfem47/F1/main/Aston-Gradient.png",
-    "Team":	"Aston Martin",
-    "Points":	"183"
+    "Name":	"SAI",
+    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/SAI.png",
+    "Team":	"Ferrari",
+    "Points":	"40"
     },
     {
     "Place":	"5",
-    "Name":	"SAI",
-    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/SAI.png",
-    "Color":"",
-    "Gradient":"",
-    "Team":	"Ferrari",
-    "Points":	"153"
+    "Name":	"PIA",
+    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/PIA.png",
+    "Team":	"MCLAREN",
+    "Points":	"28"
     },
     {
     "Place":	"6",
-    "Name":	"RUS",
-    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/RUS.png",
+    "Name":	"NOR",
+    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/NOR.png",
     "Color":"",
     "Gradient":"",
-    "Team":	"Mercedes-Benz",
-    "Points":	"40"
+    "Team":	"MCLAREN",
+    "Points":	"27"
     }
     ]}
