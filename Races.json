@@ -64,7 +64,10 @@
     {
     "Round":"5",
     "Country":	"China",
+    "Flag":	"https://raw.githubusercontent.com/wolfem47/F1/main/General%20Images/Flags/China.png",
     "City":	"Shanghai",
+    "Circuit":"Shanghai International Circuit",
+    "Prix":"LENOVO CHINESE GRAND PRIX",
     "Qual":	"April 21 2024 20:00 UTC",
     "Sprint":	"",
     "Race":	"April 21 2024 19:30 UTC",
