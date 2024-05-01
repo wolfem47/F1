@@ -5,45 +5,45 @@
     {
     "Place":	"1",
     "Name":	"VER",
-    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/VER.png",
+    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/Drivers/VER.png",
     "Team":	"Red Bull",
-    "Points":	"51"
+    "Points":	"110"
     },
     {
     "Place":	"2",
-    "Name":	"LEC",
-    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/LEC.png",
-    "Team":	"Ferrari",
-    "Points":	"47"
+    "Name":	"HAM",
+    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/Drivers/PER.png",
+    "Team":	"Red Bull",
+    "Points":	"85"
     },
     {
     "Place":	"3",
-    "Name":	"HAM",
-    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/PER.png",
-    "Team":	"Red Bull",
-    "Points":	"46"
+    "Name":	"LEC",
+    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/Drivers/LEC.png",
+    "Team":	"Ferrari",
+    "Points":	"76"
     },
     {
     "Place":	"4",
     "Name":	"SAI",
-    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/SAI.png",
+    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/Drivers/SAI.png",
     "Team":	"Ferrari",
-    "Points":	"40"
+    "Points":	"69"
     },
     {
     "Place":	"5",
-    "Name":	"PIA",
-    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/PIA.png",
-    "Team":	"MCLAREN",
-    "Points":	"28"
-    },
-    {
-    "Place":	"6",
     "Name":	"NOR",
-    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/NOR.png",
+    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/Drivers/NOR.png",
     "Color":"",
     "Gradient":"",
     "Team":	"MCLAREN",
-    "Points":	"27"
+    "Points":	"58"
+    },
+    {
+    "Place":	"6",
+    "Name":	"PIA",
+    "Image":"https://raw.githubusercontent.com/wolfem47/F1/main/Drivers/PIA.png",
+    "Team":	"MCLAREN",
+    "Points":	"38"
     }
     ]}
